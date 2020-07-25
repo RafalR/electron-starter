@@ -12,7 +12,7 @@
   "author": "Rafał Rudzik",
   "license": "MIT",
   "dependencies": {
-    "electron": "^1.8.2"
+    "electron": "^9.1.1"
   },
   "devDependencies": {
     "electron-packager": "^11.0.1"
